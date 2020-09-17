@@ -5,9 +5,9 @@
 
 Two nights ago, Kanye took to Twitter to post this now-deleted tweet, which marked the beginning of a days-long onslaught of tweets airing out his frustrations about the way major label record deals are structured.
 
-![](https://i.imgur.com/8sCBy6L.png)
+<img src="https://i.imgur.com/8sCBy6L.png" alt="Kanye West tweet: 'I'm not putting no more music out till I'm done with my contract with Sony and Universal ... On God ... in Jesus name ... come and get me'">
 
-Yesterday one of his tweets caught my eye:
+Yesterday, one of these tweets caught my eye:
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">When I spoke to Katie Jacobs who is on the board of Vivendi we decided to create a “Y combinator” for the music industry so artist have the power and transparency to to be in control of our future ... no more shady contracts ... no more life long deals</p>&mdash; ye (@kanyewest) <a href="https://twitter.com/kanyewest/status/1305977929180966913?ref_src=twsrc%5Etfw">September 15, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -19,4 +19,6 @@ But majors no longer invest in artist development like they used to, preferring 
 
 In the business world, the difference between incubators & accelerators is that only the latter offers seed money. So a "Y Combinator for artists" (i.e., an artist accelerator) created in partnership with Vivendi—which, again, owns Universal Music Group—will likely perform most of the same functions a record label already does, only with a larger investment in artist development. And that really doesn't sound all that revolutionary.
 
-Maybe instead the idea is just to launch a competitor to [UnitedMasters](https://unitedmasters.com/) or Kobalt Music Group's [AWAL](https://www.awal.com/): a digital distribution service for independent artists that also provides free "career dev" tools like streaming and social analytics, detailed earning reports, DSP smart link pages for music releases, and perhaps even seminars like Spotify for Artists has. And then for select talent, an option to sign a record deal and secure other artist services like sync licensing and brand deal opportunities and whatnot. The only thing is, Universal Music Group already has a music distribution service that does all that: [Spinnup](https://spinnup.com/uc/). So who knows! Hard to say exactly what Kanye has in mind for this "YC for the music industry" idea, and given that it *is* Kanye, the whole thing might not even come to fruition. I'm looking forward to seeing how (or if) any of this plays out.
+Maybe instead the idea is just to launch a competitor to [UnitedMasters](https://unitedmasters.com/) or Kobalt Music Group's [AWAL](https://www.awal.com/): a digital distribution service for independent artists that also provides free "career dev" tools like streaming and social analytics, detailed earning reports, DSP smart link pages for music releases, and perhaps even seminars like Spotify for Artists has. And then for select talent, an option to sign a record deal and secure other artist services like sync licensing and brand deal opportunities and whatnot. The only thing is, Universal Music Group already has a music distribution service that does all that: [Spinnup](https://spinnup.com/uc/).
+
+So who knows! Hard to say exactly what Kanye has in mind for this "YC for the music industry" idea, and given that it *is* Kanye, the whole thing might not even come to fruition. I'm looking forward to seeing how (or if) any of this plays out.
